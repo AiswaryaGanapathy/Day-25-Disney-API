@@ -1,0 +1,43 @@
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+p{
+ 
+    font-size:1.5em;
+    color: black;
+    display: flex;
+    align-items: center;
+
+}
+h3{
+    
+    font-size:2em;
+    color: grey !important;
+
+}
+h1{
+  
+    font-size:4em;
+    color: blueviolet !important;
+}
+img{
+    height: 100% !important;
+    width: 100% !important;
+    object-fit: cover !important;
+}
+#style{
+   
+    color: blue;
+}
+.text{
+    border: 3px solid red;
+    border-radius: 10px;
+    background-color: whitesmoke;   
+    font-size:2em;
+    color: purple;
+}
