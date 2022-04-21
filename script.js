@@ -33,7 +33,7 @@ text1.setAttribute('id','text1')
 text1.innerHTML = 'enter width'
 text1.setAttribute('onkeyup','disney(text1.value)')
 text1.setAttribute('onkeypress','typing()')
-text1.setAttribute('placeholder','Searc here')
+text1.setAttribute('placeholder','Search here')
 text1.classList.add('text','text-center')
 document.getElementById('form').appendChild(text1)
 
